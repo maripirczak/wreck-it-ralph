@@ -10,7 +10,7 @@ To play, [click here](https://maripirczak.github.io/wreck-it-ralph/).
 </p>
 
 
-## Tecnologias utilizadas
+## Technologies Used
 
 - HTML5 and CSS3 for structuring the web page and styling the game interface.
 - JavaScript to implement game logic and interactivity.
